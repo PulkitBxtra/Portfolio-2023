@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-color:#DAF25E;
+}
+
+.anton{
+    font-family: 'Anton', sans-serif;
+}
+
+.lato{
+    font-family: 'Lato', sans-serif;
+}
+
+.sulphur{
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+.rock-salt{
+    font-family: 'Rock Salt', cursive;
+}
